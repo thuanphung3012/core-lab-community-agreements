@@ -13,6 +13,7 @@ from each other without canceling anyone.
 
 Of your own feelings and those of others, as well as of all races, cultures, sexual orientations, gender identities, religions, class backgrounds, abilities, body sizes and perspectives when speaking.
 
+> Agree
 ## **Recognize your own and others’ privilege**
 
 When entering a space, when speaking or not speaking be aware of privilege based on many forms of identity. At the same time, **don’t assume the identity** of others.
@@ -22,11 +23,11 @@ When entering a space, when speaking or not speaking be aware of privilege based
 What we share stays here. If you tell stories about this time, ask permission first, or if nothing too personal remove identifying information.
 
 - Administrators have some limitations related to university guidelines
-
+> Agree
 ## **Share from your own experiences**
 
 Your perspective is shaped by your tradition, beliefs, identities and life experiences. Speak from your heart using “I” statements to take ownership of what you say. The only person you can truly speak for is yourself.
-
+> Agree
 ## **Honor silence and time for reflection**
 
 This also allows time for others to move up their speaking. Practice waiting: W.A.I.T. – why am I talking?
@@ -65,3 +66,6 @@ Where you’re challenged is where you have space to learn.
 ## **Stay present; take care of yourself**
 
 Truly engaging can be challenging and vulnerable.# core-lab-community-agreements
+
+
+This is added by Thuan
